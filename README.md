@@ -9,7 +9,7 @@ The project has been developed around the Seeed Studio XIAO ESP32-C6 and is opti
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1867d891-9a4f-42f5-8e89-9db010226c25" width="350" alt="Foto del Sensor 1">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/ef573ff3-573a-4905-888d-0805166f8f36" width="350" alt="Foto del Sensor 2">
+  <img src="https://github.com/user-attachments/assets/6e71adc1-9956-45c8-982f-e83d969d333d" width="350" alt="Foto del Sensor 2">
 </p>
 
 ---
