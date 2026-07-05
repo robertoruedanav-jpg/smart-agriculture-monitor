@@ -6,6 +6,10 @@ The project has been developed around the Seeed Studio XIAO ESP32-C6 and is opti
 
 > **Current status:** Prototype completed and deployed in the field. The hardware is fully operational and sensor acquisition works correctly. NB-IoT communication is still under debugging after field deployment.
 
+<p align="center">
+  <img src="C:\Users\rober\OneDrive - UNED\ROBERTO\MASTER IOT\SEMESTRE 1\Sistemas Digitales\TRABAJON FINAL EL SENSORR\sensor instalado.jpeg" width="400" title="Sensor de Humedad y Temperatura">
+</p>
+
 ---
 
 # Features
