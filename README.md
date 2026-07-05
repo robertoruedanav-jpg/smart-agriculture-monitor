@@ -7,9 +7,11 @@ The project has been developed around the Seeed Studio XIAO ESP32-C6 and is opti
 > **Current status:** Prototype completed and deployed in the field. The hardware is fully operational and sensor acquisition works correctly. NB-IoT communication is still under debugging after field deployment.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1867d891-9a4f-42f5-8e89-9db010226c25" width="350" alt="Foto del Sensor Instalado">
+  <img src="https://github.com/user-attachments/assets/1867d891-9a4f-42f5-8e89-9db010226c25" width="350" alt="Foto del Sensor 1">
+  
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/ef573ff3-573a-4905-888d-0805166f8f36" width="350" alt="Foto del Cableado">
+  
+  <img src="https://github.com/user-attachments/assets/ef573ff3-573a-4905-888d-0805166f8f36" width="350" alt="Foto del Sensor 2">
 </p>
 
 ---
