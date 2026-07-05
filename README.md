@@ -54,11 +54,11 @@ The project has been developed around the Seeed Studio XIAO ESP32-C6 and is opti
                 XL6019 Step-Up
                       │
               XIAO ESP32-C6
-          ┌───────────┴───────────┐
-          │                       │
-      RS485 Bus               UART
-          │                       │
-  2x UNSEN600 Sensors       SIM7070G
+          ┌───────────┴───────────┐──────────────┐
+          │                       │              │
+      RS485 Bus               UART            Analog Read
+          │                       │              │
+  2x UNSEN600 Sensors       SIM7070G            DHT22
           │                       │
       Soil Data             NB-IoT Network
                                   │
